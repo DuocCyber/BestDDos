@@ -24,7 +24,7 @@ Python 3.11+
 requests, cloudscraper, colorama, aiohttp, beautifulsoup4, v.v.
 Khuyến nghị dùng Linux hoặc Termux (Windows hỗ trợ một phần)
 bash
-git clone https://github.com/hoanglamdz/VNSPROXY
+git clone (https://github.com/DuocCyber/BestDDos/)
 cd ddos
 pip install -r requirements.txt
 python3 main.py
