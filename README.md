@@ -1,3 +1,4 @@
+Của dev hoàng lâm bên FPT
 🦊 VNSPROXY v1.0 - Firepower Edition
 VNSPROXY là một công cụ thử nghiệm DDoS hiệu suất cao, hỗ trợ Layer 4 và Layer 7, được phát triển cho mục đích giáo dục và nghiên cứu.
 
