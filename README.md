@@ -28,4 +28,4 @@ bash
 git clone (https://github.com/DuocCyber/BestDDos/)
 cd ddos
 pip install -r requirements.txt
-python3 main.py
+python3 main.py   cute0909
